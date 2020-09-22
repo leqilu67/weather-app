@@ -8,8 +8,8 @@ import {
 } from 'react-router-dom';
 import axios from 'axios';
 import './css/index.css';
+import APPID from './config.js';
 
-const APPID = "ace4515cfe6e2a83b39a656a7a3e1f82";
 const UNIT = "imperial";
 const LOCATION = "94538";
 
